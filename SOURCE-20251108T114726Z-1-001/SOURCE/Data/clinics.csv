@@ -1,0 +1,6 @@
+clinic_code,clinic_name,address,city,phone,manager_name,capacity_rooms,operating_hours,clinic_type
+C001,HealthCare Plus Clinic 1,4686 Smith Loop,Cairo,1111072680,Garrett Rose,23,08:00-20:00, Specialized
+C002,HealthCare Plus Clinic 2,27828 Lori Landing Apt. 707, Cairo,1029370284,Charles Randall,18,08:00-20:00,Specialized
+C003,HealthCare Plus Clinic 3,84643 Campbell Shore Suite 136,Cairo,1292415990,Katherine Walker,16,08:00-20:00, General
+C004,HealthCare Plus Clinic 4,23954 Scott Harbor, Alexandria,1055420320,Nathaniel Cox,14,08:00-20:00,General
+C005,HealthCare Plus Clinic 5,56700 Berger Trail Apt. 405,Alexandria,1274932414,Kimberly Rios,14,08:00-20:00,Specialized

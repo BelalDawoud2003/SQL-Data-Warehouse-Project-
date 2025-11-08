@@ -1,0 +1,206 @@
+history_id,patient_id,condition_code,condition_name,diagnosis_date,severity,chronic_flag,notes,doctor_id
+1,P0140,C002,Diabetes,11/14/2023,MILD,YES,Church save how record show understand.,D010
+2,P0069,C003, Asthma,4/4/2017,MODERATE,Y,Baby eight specific left movie.,D021
+3,P0006,C002,Diabetes,11/21/2018,MODERATE,Y,Everybody good central station.,D020
+4,P0039,C003,Asthma,1/26/2016,MILD,NO,Leave dark beyond with.,D016
+5,P0126,C004,Arthritis,9/14/2018,SEVERE,N,Notice represent main science.,D018
+6,P0095,C005,Heart Disease,11/13/2021,SEVERE,N,Start future laugh modern writer carry.,D002
+7,P0189,C004,Arthritis,11/24/2022,SEVERE,N,Talk effort start since teach.,D006
+8,P0130,C004,Arthritis,2/14/2023,MILD,N,Fact according short.,D001
+9,P0101,C003,Asthma,3/11/2017,SEVERE,YES,Sort away amount beautiful resource look.,D004
+10,P0182,C003,Asthma,9/13/2020,MODERATE,Y,Glass instead black reveal national peace skin.,D003
+11,P0195,C005, Heart Disease,2/4/2024,MILD,Y,Size around party weight.,D018
+12,P0065,C004,Arthritis,9/12/2021,MILD,NO,Call news reveal describe him stay key.,D003
+13,P0192,C003,Asthma,6/4/2025,SEVERE,N,Member control any too gas direction rather.,D021
+14,P0020,C004,Arthritis,12/18/2017,MODERATE,Y,Growth red wide degree notice each.,D006
+15,P0074,C001,Hypertension,4/20/2023,MILD,Y,Free president reflect maintain red sort.,D010
+16,P0082,C001,Hypertension,3/3/2021,SEVERE,N,Whether voice near by visit them serious.,D001
+17,P0156,C003,Asthma,5/10/2023,MILD,N,Industry with raise like north political.,D017
+18,P0175,C003,Asthma,1/21/2018,SEVERE,Y,Election message traditional summer fight true.,D014
+19,P0145,C001,Hypertension,3/30/2024,MILD,Y,Hair opportunity effort may.,D002
+20,P0127,C003,Asthma,3/13/2023,SEVERE,N,Dog business sure wife move behind same.,D010
+21,P0050,C003, Asthma,2/22/2017,SEVERE,Y,Well trade country sometimes.,D014
+22,P0161,C004,Arthritis,10/20/2020,MILD,Y,Top fire cell land visit wall from instead.,D019
+23,P0184,C001, Hypertension,7/29/2019,MODERATE,N,Bring very as half dinner their mother.,D018
+24,P0098,C004,Arthritis,9/10/2019,SEVERE,N,Number present policy space weight develop.,D015
+25,P0108,C005,Heart Disease,7/17/2019,MODERATE,Y,If only brother glass onto amount consumer yeah.,D004
+26,P0086,C001,Hypertension,3/27/2023,MODERATE,Y,Land information area throw education set few.,D004
+27,P0130,C004,Arthritis,7/7/2025,MILD,Y,Gas along financial carry entire police as.,D008
+28,P0126,C004,Arthritis,1/27/2022,MODERATE,N,Follow market stay last public.,D003
+29,P0071,C001,Hypertension,12/29/2019,SEVERE,N,Carry citizen card join.,D001
+30,P0071,C001,Hypertension,9/13/2020,SEVERE,Y,Week heart concern dream hair age home.,D020
+31,P0079,C001,Hypertension,4/25/2019,MODERATE,N,Well tree girl rule hour.,D016
+32,P0148,C005,Heart Disease,12/22/2019,MODERATE,N,Provide continue that make three somebody.,D014
+33,P0055,C002,Diabetes,1/25/2017,MILD,N,Push give yes decision long turn follow mother.,D013
+34,P0080,C002,Diabetes,2/1/2024,MILD,Y,Democratic body she site above father offer life.,D003
+35,P0052,C001,Hypertension,10/8/2016,SEVERE,N,Machine music everybody national join.,D009
+36,P0001,C003,Asthma,9/23/2019,MILD,Y,Understand professional special.,D001
+37,P0090,C005,Heart Disease,9/11/2019,SEVERE,Y,Yeah industry suffer toward appear about teach.,D003
+38,P0170,C001,Hypertension,10/23/2021,MILD,Y,Effort page raise admit present production.,D006
+39,P0010,C001,Hypertension,2/5/2020,MILD,N,Plan ground now whether character.,D022
+40,P0166,C002,Diabetes,1/30/2016,MODERATE,Y,What deal alone citizen dark article data.,D016
+41,P0037,C004,Arthritis,11/1/2016,MODERATE,Y,Them must forward discover fast seven author.,D021
+42,P0098,C002,Diabetes,5/1/2019,SEVERE,N,Community hotel animal concern common.,D010
+43,P0176,C005,Heart Disease,4/29/2019,SEVERE,Y,Former hard south say short the.,D020
+44,P0031,C003,Asthma,1/20/2024,SEVERE,Y,Little evidence work cup subject.,D017
+45,P0132,C003,Asthma,11/26/2020,SEVERE,N,Once news budget red likely specific.,D016
+46,P0038,C003,Asthma,8/26/2016,MILD,Y,Bag sense firm choose here here bit.,D005
+47,P0111,C005,Heart Disease,4/2/2022,MILD,N,Special what give debate.,D003
+48,P0160,C001,Hypertension,11/5/2022,MODERATE,N,Perhaps hope east individual security nice.,D019
+49,P0078,C004,Arthritis,2/24/2018,MILD,N,Lot rate build stuff commercial away.,D024
+50,P0004,C001,Hypertension,1/19/2018,SEVERE,Y,Sea during possible able current cover behind.,D023
+51,P0158,C004,Arthritis,11/4/2016,SEVERE,Y,Effect clearly cup despite prevent cold.,D003
+52,P0186,C002,Diabetes,5/12/2023,MODERATE,N,Top apply identify keep their.,D020
+53,P0168,C001,Hypertension,10/31/2015,MILD,Y,Matter year rest bar reach.,D013
+54,P0008,C001,Hypertension,7/20/2019,MODERATE,Y,Try research edge nation. Sign point operation.,D021
+55,P0164,C003,Asthma,9/19/2017,MODERATE,Y,The teach hot enter whole.,D006
+56,P0155,C001,Hypertension,8/22/2025, MILD,N,Far reveal reason dinner.,D007
+57,P0068,C004,Arthritis,12/18/2021,MILD,N,Successful live notice painting.,D001
+58,P0045,C004,Arthritis,5/1/2025,MODERATE,Y,Believe seem health.,D007
+59,P0153,C002,Diabetes,3/21/2020, MODERATE,N,Kid sound role natural wish small.,D001
+60,P0157,C002,Diabetes,3/10/2025,SEVERE,Y,Way him sell. Maybe moment center public.,D014
+61,P0082,C003,Asthma,9/15/2017,SEVERE,Y,Check democratic table degree.,D004
+62,P0166,C005,Heart Disease,3/25/2024,SEVERE,N,Population participant staff Mr itself phone.,D014
+63,P0011,C001,Hypertension,10/20/2020,SEVERE,Y,Movie mean crime then.,D023
+64,P0046,C002,Diabetes,10/19/2023,MODERATE,N,Suddenly road for they guess.,D010
+65,P0177,C003,Asthma,7/23/2016,MILD,N,Off child sound take think upon ready share.,D016
+66,P0129,C005,Heart Disease,7/31/2023,SEVERE,N,Because collection next despite.,D001
+67,P0146,C003,Asthma,10/17/2016,SEVERE,Y,Deep woman forward into only notice range.,D022
+68,P0150,C004,Arthritis,2/11/2024,MODERATE,N,Know over yard either likely.,D007
+69,P0053,C002,Diabetes,10/2/2018,MILD,Y,Nature outside loss defense.,D010
+70,P0016,C001,Hypertension,2/1/2020,MODERATE,N,By skin health contain hair.,D021
+71,P0029,C005,Heart Disease,3/1/2023,MILD,Y,Culture happen traditional where.,D001
+72,P0108,C005,Heart Disease,10/7/2019,SEVERE,Y,Want possible military down.,D009
+73,P0098,C001,Hypertension,3/7/2017, MODERATE,N,Strategy may significant. Mission strong method.,D023
+74,P0058,C003,Asthma,7/3/2024,MODERATE,N,President that whatever still entire position.,D010
+75,P0021,C005,Heart Disease,5/2/2022,MILD,N,Why resource job offer low.,D005
+76,P0126,C001,Hypertension,7/1/2023,SEVERE,N,Thought again main big college.,D010
+77,P0107,C001,Hypertension,8/8/2020,SEVERE,N,Thank while wide.,D016
+78,P0173,C002,Diabetes,5/25/2024,MODERATE,Y,Couple if themselves field huge reason address.,D001
+79,P0012,C004,Arthritis,5/8/2021,MODERATE,N,Skill capital foreign conference.,D015
+80,P0112,C002,Diabetes,7/20/2025,MILD,Y,Level word blood ok pressure have.,D019
+81,P0119,C003,Asthma,12/28/2016,MODERATE,N,Minute finish tree.,D023
+82,P0094,C003,Asthma,1/11/2017, MODERATE,Y,Listen teach eight director reveal yard notice.,D011
+83,P0055,C003,Asthma,12/27/2021,MILD,Y,Work dream of less beautiful television.,D007
+84,P0107,C001,Hypertension,11/10/2019,MODERATE,N,Arm imagine political public do.,D003
+85,P0042,C004,Arthritis,5/11/2016,MILD,Y,National candidate write building all.,D016
+86,P0125,C005,Heart Disease,3/18/2018,MODERATE,Y,Surface drive billion strategy.,D013
+87,P0061,C003,Asthma,1/20/2020,MODERATE,Y,Model possible until. Six five have several.,D014
+88,P0189,C004,Arthritis,6/5/2016,SEVERE,Y,Receive fund form small well. Say draw always.,D021
+89,P0006,C005,Heart Disease,6/24/2018,MODERATE,N,Rise father guy show pick staff hospital.,D003
+90,P0099,C001,Hypertension,5/29/2018,MILD,Y,Particularly left own most.,D020
+91,P0056,C003,Asthma,9/11/2019,MODERATE,N,Message moment meeting.,D023
+92,P0071,C005,Heart Disease,3/12/2019,MILD,Y,Within recent difference place high that call.,D018
+93,P0119,C005,Heart Disease,9/6/2017,SEVERE,Y,Structure final seat traditional similar front.,D010
+94,P0041,C003,Asthma,12/27/2016,MILD,N,Body risk writer large it. Fear resource exactly.,D006
+95,P0068,C001,Hypertension,11/12/2024,SEVERE,N,Free current give.,D019
+96,P0176,C002,Diabetes,2/20/2019,MODERATE,Y,Drug yourself carry produce within.,D007
+97,P0048,C003,Asthma,7/27/2019,MODERATE,N,Bring difference vote. Without expert crime.,D002
+98,P0101,C001,Hypertension,4/12/2016,SEVERE,Y,Either let service quite.,D002
+99,P0135,C001,Hypertension,11/1/2019,MODERATE,Y,Speech name scientist anyone.,D024
+100,P0085,C001,Hypertension,4/16/2018,MODERATE,N,Watch establish them tree artist matter mind.,D008
+101,P0008,C004,Arthritis,3/2/2018,MILD,N,Tree send vote write moment.,D010
+102,P0067,C003,Asthma,7/20/2025,MILD,Y,Similar beat attack tough reveal role least word.,D012
+103,P0010,C002,Diabetes,12/10/2019,MODERATE,Y,Heart light stay yourself behavior.,D005
+104,P0039,C001,Hypertension,9/26/2019,SEVERE,N,Me personal memory professor.,D016
+105,P0032,C001,Hypertension,6/24/2023,SEVERE,N,Heavy information most think analysis.,D003
+106,P0121,C002,Diabetes,12/4/2015,MODERATE,N,Notice huge close on watch.,D016
+107,P0185,C002,Diabetes,10/16/2017,MILD,Y,Record land society concern professor mind.,D011
+108,P0006,C002,Diabetes,11/26/2023,MILD,Y,Must take fact hospital hold religious.,D003
+109,P0027,C001,Hypertension,9/15/2020,MODERATE,N,Eight quite inside long speak assume.,D017
+110,P0173,C005,Heart Disease,1/22/2019,MODERATE,N,Case chance side let thousand.,D021
+111,P0091,C001,Hypertension,2/19/2020,SEVERE,Y,Early discover so we money mind.,D016
+112,P0195,C002,Diabetes,2/24/2016,SEVERE,N,Stay hair rise raise full different expect.,D021
+113,P0092,C001,Hypertension,8/20/2016,MILD,N,Current early need response them seven house.,D010
+114,P0061,C004,Arthritis,10/15/2023,MILD,N,Appear game time myself wait nice national.,D019
+115,P0149,C002,Diabetes,1/19/2024,MILD,Y,According behind sea home low.,D006
+116,P0169,C005,Heart Disease,8/2/2022,MILD,Y,Old although condition son.,D017
+117,P0007,C001,Hypertension,5/28/2017,MILD,Y,Free how lose hope.,D017
+118,P0157,C003,Asthma,4/2/2017,SEVERE,N,Thousand example local avoid leg.,D001
+119,P0088,C004,Arthritis,8/8/2024,MODERATE,N,Whether less it ever worry now.,D012
+120,P0139,C003,Asthma,3/15/2022,SEVERE,Y,Avoid develop those job benefit wife.,D005
+121,P0156,C005,Heart Disease,9/20/2017,SEVERE,Y,Evidence option leave admit.,D018
+122,P0016,C003,Asthma,4/8/2019,SEVERE,N,Minute nice behavior.,D003
+123,P0054,C002,Diabetes,5/24/2023,MILD,Y,Operation tell nor indicate we.,D017
+124,P0062,C004,Arthritis,7/11/2018,MILD,Y,Expect reach successful hard.,D025
+125,P0017,C004,Arthritis,9/28/2015,MODERATE,N,Example begin yeah develop.,D021
+126,P0082,C004,Arthritis,5/29/2017,MILD,Y,Move senior sound blue page. Score study hear.,D015
+127,P0174,C005,Heart Disease,10/23/2020,MILD,Y,Southern tend stop unit how might.,D009
+128,P0097,C005,Heart Disease,6/6/2021,MODERATE,N,Believe quickly age news.,D009
+129,P0109,C002,Diabetes,5/8/2022,MILD,N,Right value buy him almost heart.,D009
+130,P0136,C005,Heart Disease,11/9/2023,SEVERE,Y,Race home character shoulder phone theory.,D019
+131,P0116,C002,Diabetes,1/1/2020,MODERATE,N,Enough Mr though get writer door.,D004
+132,P0151,C001,Hypertension,9/29/2024,MILD,N,Event make environmental surface there language.,D013
+133,P0003,C005,Heart Disease,7/9/2021,SEVERE,Y,Up approach chance account.,D017
+134,P0033,C002,Diabetes,5/30/2019,MILD,Y,Image tough world his get.,D008
+135,P0166,C004,Arthritis,4/3/2016,SEVERE,N,Leader against speech require.,D001
+136,P0044,C004,Arthritis,2/25/2022,MODERATE,Y,Low increase professor case social entire.,D005
+137,P0181,C003,Asthma,9/1/2021,MODERATE,N,Sea catch safe.,D025
+138,P0194,C003,Asthma,12/28/2024,SEVERE,N,Thousand a vote.,D014
+139,P0004,C005,Heart Disease,7/28/2025,SEVERE,Y,Resource board enjoy design election apply long.,D005
+140,P0108,C004,Arthritis,6/10/2023,MILD,N,Spring too program conference many act yard.,D008
+141,P0174,C002,Diabetes,5/17/2019,MILD,N,Stop process see wrong agree public center.,D023
+142,P0057,C002,Diabetes,11/15/2021,SEVERE,Y,Increase single conference attention once oil.,D023
+143,P0048,C003,Asthma,2/10/2024,MODERATE,N,Program true little dream guy. Relate too police.,D005
+144,P0099,C005,Heart Disease,11/2/2022,MILD,N,Read choice blue Mrs morning himself.,D013
+145,P0122,C003,Asthma,5/11/2022,MODERATE,Y,Sometimes shoulder continue alone pull.,D025
+146,P0132,C002,Diabetes,1/11/2016,MILD,Y,Town policy all everyone create trade forward.,D009
+147,P0165,C001,Hypertension,10/28/2015,SEVERE,Y,Shake series official dinner door leg pay carry.,D003
+148,P0091,C004,Arthritis,7/8/2025,MODERATE,Y,General player unit five total low money.,D001
+149,P0186,C002,Diabetes,11/29/2023,MODERATE,Y,Main painting win.,D002
+150,P0035,C004,Arthritis,3/26/2022,MODERATE,Y,Serious factor tax provide happy rock tax.,D013
+151,P0071,C004,Arthritis,11/9/2016,MILD,N,Night gas quickly power federal born however.,D015
+152,P0191,C003,Asthma,6/3/2025,SEVERE,Y,Former answer not cut up second contain.,D001
+153,P0038,C005,Heart Disease,11/15/2021,MILD,Y,Agree note kid coach month easy.,D022
+154,P0154,C005,Heart Disease,10/10/2021,SEVERE,N,Democrat effect need door age.,D005
+155,P0132,C002,Diabetes,10/15/2020,MILD,Y,Music system despite near.,D020
+156,P0132,C003,Asthma,3/14/2019,SEVERE,N,Entire push of fill.,D009
+157,P0048,C005,Heart Disease,2/15/2023, SEVERE,Y,Finally product enter remain him between.,D003
+158,P0048,C003,Asthma,12/14/2023,MILD,Y,End down prepare performance threat.,D005
+159,P0005,C005,Heart Disease,5/23/2018,MODERATE,Y,Smile time then prove account seat.,D017
+160,P0071,C003,Asthma,3/16/2022,MODERATE,Y,Task address upon grow from high.,D021
+161,P0167,C003,Asthma,12/13/2021,MODERATE,Y,Discussion property anyone surface.,D021
+162,P0076,C003,Asthma,12/27/2016,SEVERE,Y,Bring room set market discuss air good.,D024
+163,P0121,C002,Diabetes,1/30/2025,MILD,Y,Spring green down. Tend attorney bit.,D011
+164,P0012,C004,Arthritis,6/22/2022,MODERATE,Y,Well red year age poor impact light.,D009
+165,P0150,C002,Diabetes,7/11/2019,SEVERE,N,Into manager marriage before book source.,D014
+166,P0100,C002,Diabetes,8/26/2023,SEVERE,Y,Born think way tonight those what east.,D016
+167,P0148,C001,Hypertension,4/18/2023,SEVERE,Y,Style term technology. Law help I view cause.,D022
+168,P0014,C004,Arthritis,1/20/2023,MODERATE,Y,Its experience kind vote return body sing.,D023
+169,P0180,C001,Hypertension,10/8/2015,MILD,N,Never whose any course standard process.,D019
+170,P0025,C003,Asthma,12/20/2016,MODERATE,N,Rock big Congress sound.,D006
+171,P0149,C001,Hypertension,8/12/2020,MILD,Y,Artist second manager different particularly.,D004
+172,P0172,C001,Hypertension,6/6/2018,MODERATE,Y,Somebody last free everyone glass drive.,D020
+173,P0059,C005,Heart Disease,7/29/2020,MILD,Y,Make school soldier open report catch.,D017
+174,P0159,C002,Diabetes,12/8/2020,MODERATE,N,Including very none.,D015
+175,P0018,C001,Hypertension,10/27/2017,SEVERE,Y,When drug compare hotel important drop.,D002
+176,P0131,C003,Asthma,7/17/2020,MILD,N,Major under author series way me tax.,D010
+177,P0069,C001,Hypertension,8/28/2019,MODERATE,Y,Pay somebody pay bag trade.,D017
+178,P0070,C004,Arthritis,2/3/2022,MODERATE,Y,Away past soldier between to right red.,D015
+179,P0003,C005,Heart Disease,7/2/2021,SEVERE,Y,Game site truth oil offer fact.,D004
+180,P0170,C003,Asthma,2/10/2016, MILD,Y,Avoid box sister after.,D007
+181,P0158,C001,Hypertension,4/27/2018,SEVERE,N,Your seem throughout candidate you theory new or.,D013
+182,P0162,C003,Asthma,5/9/2016,MILD,N,Still make would sing middle follow edge.,D010
+183,P0162,C005,Heart Disease,8/16/2023,MODERATE,N,Ask Mr character understand also.,D016
+184,P0080,C002,Diabetes,6/2/2022,SEVERE,N,Read wear agree service structure city.,D017
+185,P0104,C003,Asthma,2/4/2019,SEVERE,Y,Writer education indicate check study cultural.,D023
+186,P0103,C004,Arthritis,9/10/2023,SEVERE,Y,Opportunity group public window.,D021
+187,P0023,C005,Heart Disease,3/20/2017,MILD,N,Politics every most carry those arm.,D022
+188,P0067,C001,Hypertension,8/1/2023,MODERATE,Y,Everyone machine wrong Mrs education side arrive.,D008
+189,P0140,C001,Hypertension,5/9/2024,MILD,N,While upon third rise market job write.,D012
+190,P0105,C003,Asthma,1/9/2025,MILD,N,Step Mr letter prevent TV.,D023
+191,P0040,C002,Diabetes,6/1/2020,MODERATE,N,Spend talk artist.,D003
+192,P0172,C005,Heart Disease,12/15/2020,MODERATE,Y,Thing number reach agree art.,D012
+193,P0083,C002,Diabetes,4/23/2020,MODERATE,Y,Report drug alone source show country finish.,D019
+194,P0129,C004,Arthritis,2/24/2022,MILD,Y,Mouth especially describe scene number lot.,D009
+195,P0003,C001,Hypertension,7/22/2016,MILD,Y,Cultural live claim box another employee grow.,D021
+196,P0087,C001,Hypertension,10/25/2017,MODERATE,Y,Well effort then head call key quite within.,D023
+197,P0158,C003,Asthma,9/16/2018,SEVERE,Y,Contain history have course citizen poor.,D021
+198,P0199,C002,Diabetes,7/7/2019,SEVERE,N,Once specific it cover toward parent.,D005
+199,P0101,C005,Heart Disease,1/7/2025,SEVERE,N,Into small much within in.,D007
+200,P0168,C005,Heart Disease,3/15/2019,MILD,Y,Speak simple blood market easy thought.,D010
+192,P0172,C005,Heart Disease,12/15/2020,MODERATE,Y,Thing number reach agree art.,D012
+193,P0083,C002,Diabetes,4/23/2020,MODERATE,Y,Report drug alone source show country finish.,D019
+194,P0129,C004,Arthritis,2/24/2022,MILD,Y,Mouth especially describe scene number lot.,D009
+195,P0003,C001,Hypertension,7/22/2016,MILD,Y,Cultural live claim box another employee grow.,D021
+196,P0087,C001,Hypertension,10/25/2017,MODERATE,Y,Well effort then head call key quite within.,D023

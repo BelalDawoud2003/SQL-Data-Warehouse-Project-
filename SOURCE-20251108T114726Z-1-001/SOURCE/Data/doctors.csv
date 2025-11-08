@@ -1,0 +1,26 @@
+doctor_code,doctor_name,specialization,department,hire_date,phone,email,status,primary_clinic
+D001, Quinn,ENT,Dept B,4/28/2022,1242173524,dale.quinn@gmail.com,ACTIVE,C004
+D002,Amanda Andrews, Dermatology, Dept B,3/9/2020,1192103836,amanda.andrews@gmail.com,ACTIVE,C005
+D003,Krystal Blankenship,General Medicine,Dept A,5/5/2019,1295666464,krystal.blankenship@gmail.com,ACTIVE,C001
+D004,Neil ,Neurology, Dept A,11/22/2020,1082426595,neil.choi@gmail.com,ACTIVE,C002
+D005,Andre Douglas,Oncology,Dept B,12/18/2019,1041817928,andre.douglas@gmail.com, ACTIVE,C003
+D006,Allison Jensen, Cardiology,Dept C,4/14/2021,1235759412,allison.jensen@gmail.com,ACTIVE,C002
+D007,Brian Miranda,Dentistry,Dept B,4/10/2020,1299542407,brian.miranda@gmail.com,ACTIVE,C005
+D008, Mitchell,ENT, Dept B,1/25/2020,1222322344,erica.mitchell@gmail.com,ACTIVE,C001
+D009,Jeffery Miller, Dermatology,Dept B,12/4/2022,1242474163,jeffery.miller@gmail.com,ACTIVE,C003
+D010,Scott Sullivan,Ophthalmology,Dept C,1/3/2020,1216165406,scott.sullivan@gmail.com, ACTIVE,C005
+D011,Stacey Burke,Oncology,Dept C,7/7/2020,1187600943,stacey.burke@gmail.com,ACTIVE,C004
+D012,Eric ,Oncology,Dept C,8/23/2016,1133414105,eric.mack@gmail.com,ACTIVE,C004
+D013,David Johnson,Pediatrics,Dept B,1/7/2023,1075774379,david.johnson@gmail.com,ACTIVE,C002
+D014,Tiffany Oconnell,Neurology, Dept C,5/29/2024,1213518501,tiffany.oconnell@gmail.com,ACTIVE,C002
+D015,Justin Huerta,General Medicine,Dept A,5/26/2019,1015247701,justin.huerta@gmail.com,ACTIVE,C001
+D016, Harrington, General Medicine,Dept C,6/21/2019,1184156408,angela.harrington@gmail.com,ACTIVE,C003
+D017,Heather Kirk,Ophthalmology,Dept C,4/26/2023,1026740806,heather.kirk@gmail.com,ACTIVE,C004
+D018,Arthur Kelly,Neurology,Dept B,5/26/2017,1062843092,arthur.kelly@gmail.com,ACTIVE,C003
+D019,Joy Ortiz,ENT,Dept C,2/8/2018,1151521854,joy.ortiz@gmail.com,ACTIVE,C003
+D020,Christopher Mathis,Ophthalmology,Dept A,10/20/2017,1222113736,christopher.mathis@gmail.com,ACTIVE,C005
+D021, Wilson,Neurology,Dept B,4/26/2020,1067298539,jessica.wilson@gmail.com,ACTIVE,C005
+D022,Sandra Yang,Neurology,Dept A,2/9/2022,1289888829,sandra.yang@gmail.com,ACTIVE,C002
+D023,David Williams,Ophthalmology,Dept C,4/3/2017,1148513722,david.williams@gmail.com,ACTIVE,C005
+D024,Kristina Cook,Orthopedics,Dept B,10/1/2021,1164993425,kristina.cook@gmail.com,ACTIVE,C005
+D025,Richard Shelton,General Medicine,Dept B,10/22/2019,1117103021,richard.shelton@gmail.com,ACTIVE,C001
